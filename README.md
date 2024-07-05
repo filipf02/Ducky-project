@@ -1,0 +1,2 @@
+# Ducky
+A JavaScript project
